@@ -22,6 +22,7 @@ This project predicts house sale prices using Machine Learning. It uses the Ames
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
+- KNN With Scaling
 
 **Best Model:** Random Forest Regressor
 
@@ -50,44 +51,9 @@ This project predicts house sale prices using Machine Learning. It uses the Ames
 ## 🌐 Live Demo
 
 🔗 **Streamlit App:**
-(Add your Streamlit deployment link here)
+https://house-price-prediction-app-bycharan.streamlit.app/
 
----
 
-## 📂 Project Structure
-
-```
-HousePricePrediction/
-│
-├── app.py
-├── house_price_model.pkl
-├── requirements.txt
-├── README.md
-```
-
----
-
-## ▶️ Run Locally
-
-Clone the repository
-
-```bash
-git clone <repository-link>
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit app
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 📌 Dataset
 
